@@ -10,7 +10,7 @@ package conherencia;
  *
  * @author Estudiante
  */
-public class PalaMecanica {
+public class PalaMecanica extends Vehiculo {
     
     int pesoMaximoLevante;
     
